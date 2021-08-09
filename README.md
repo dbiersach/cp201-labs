@@ -1,2 +1,2 @@
-# cp201-labs
-Introduction to Computational Physics (CP201) - Labs
+# Welcome to the Introduction to Computational Physics (CP201)
+## Lab Code
